@@ -1,0 +1,7 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_HOST=postgres
+POSTGRES_PORT=5432
+POSTGRES_DB=paisapp
+POSTGRES_USER=vnJjNFjvoMUqtvRblSumnEzdmrpYgCMj
+POSTGRES_PASSWORD=gpR91y5fq1J9Yq40Gyp3UlCximfgFQqDh92J1WsKf38pHjoQFe8vXpZuOvARVciN
