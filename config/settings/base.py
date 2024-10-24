@@ -89,6 +89,7 @@ LOCAL_APPS = [
     # Your stuff: custom apps go here
     "paisapp.directory",
     "paisapp.comercio",
+    "paisapp.scouter",
 ]
 # https://docs.djangoproject.com/en/dev/ref/settings/#installed-apps
 INSTALLED_APPS = DJANGO_APPS + THIRD_PARTY_APPS + LOCAL_APPS
